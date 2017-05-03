@@ -1594,6 +1594,7 @@ strong,
 .h-left h2 strong {
  font-family: 'uni_sanssemibold_italic';
  text-transform: lowercase;
+}
+.page-home .content h2 {
  font-size: 140px;
 }
-
