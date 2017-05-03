@@ -1584,5 +1584,15 @@ strong,
     display: none;   
 }
 
-
+@font-face {
+    font-family: 'uni_sanssemibold_italic';
+    src: url('../fonts/fontfabric_-_unisanssemibolditalic-webfont.woff2') format('woff2'),
+         url('../fonts/fontfabric_-_unisanssemibolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+.h-left h2 strong {
+ font-family: 'uni_sanssemibold_italic';
+ text-transform: lowercase;
+}
 
