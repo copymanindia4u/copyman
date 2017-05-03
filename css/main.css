@@ -1594,5 +1594,6 @@ strong,
 .h-left h2 strong {
  font-family: 'uni_sanssemibold_italic';
  text-transform: lowercase;
+ font-size: 140px;
 }
 
