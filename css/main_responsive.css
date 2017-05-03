@@ -113,7 +113,7 @@ http://themeforest.net/licenses
 		margin-left: 4px;
 	}
 	.page-home .content .header > div{
-		display: block;
+		display: inline block;
 	}
 }
 /* Screen small than 430 */
