@@ -1583,10 +1583,7 @@ strong,
 .show-for-medium-up{
     display: none;   
 }
-<<<<<<< HEAD
-=======
 
->>>>>>> refs/remotes/origin/master
 @font-face {
     font-family: 'uni_sanssemibold_italic';
     src: url('../fonts/fontfabric_-_unisanssemibolditalic-webfont.woff2') format('woff2'),
@@ -1601,7 +1598,3 @@ strong,
 .page-home .content h2 {
  font-size: 140px;
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> refs/remotes/origin/master
